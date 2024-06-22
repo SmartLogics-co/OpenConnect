@@ -1,18 +1,20 @@
 # OpenConnect
 VPN Connections 
 
-Before running the code, apply this command:
+### Server installation command:
 
-sudo su
+#### Before running the code, apply this command:
 
-cd
+- sudo su
 
-wget https://raw.githubusercontent.com/SmartLogics-c/OpenConnect/master/ocserv.sh (https://raw.githubusercontent.com/techy2dev/OpenConnect/master/ocserv.sh) && chmod +x /root/ocserv.sh (https://ocserv.sh/) && bash /root/ocserv.sh (https://ocserv.sh/)
+- cd
 
-HTTP
-HTTPS
-SSH
+- wget https://raw.githubusercontent.com/SmartLogics-c/OpenConnect/master/ocserv.sh (https://raw.githubusercontent.com/techy2dev/OpenConnect/master/ocserv.sh) && chmod +x /root/ocserv.sh (https://ocserv.sh/) && bash /root/ocserv.sh (https://ocserv.sh/)
 
-Ports:
-443
-4433
+- HTTP
+- HTTPS
+- SSH
+
+#### Ports:
+- 443
+- 4433
