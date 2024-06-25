@@ -9,7 +9,7 @@ VPN Connections
 
 - cd
 
-- wget https://raw.githubusercontent.com/SmartLogics-c/OpenConnect/master/ocserv.sh (https://raw.githubusercontent.com/techy2dev/OpenConnect/master/ocserv.sh) && chmod +x /root/ocserv.sh (https://ocserv.sh/) && bash /root/ocserv.sh (https://ocserv.sh/)
+- wget https://raw.githubusercontent.com/SmartLogics-c/OpenConnect/master/ocserv.sh && chmod +x /root/ocserv.sh && bash /root/ocserv.sh
 
 </br>
 
