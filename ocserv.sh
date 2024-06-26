@@ -191,7 +191,6 @@ server-cert = /etc/ocserv/server-cert.pem
 server-key = /etc/ocserv/server-key.pem
 ca-cert = /etc/ssl/certs/ssl-cert-snakeoil.pem
 isolate-workers = false
-acct = pam
 max-clients = 500
 max-same-clients = 500
 keepalive = 20
